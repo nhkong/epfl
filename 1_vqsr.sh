@@ -3,7 +3,7 @@
 
 # Script filters a vcf according to per sample (not per batch) DP and GQ at a given site; 
 
-SnpSift=/home/nkong/snpEff/snpEff/SnpSift.jar
+SnpSift=/home/nkong/snpEff/SnpSift.jar
 
 DIR=/mnt/data1/HIV_SC/nkong/
 
