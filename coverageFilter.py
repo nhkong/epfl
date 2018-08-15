@@ -2,8 +2,8 @@
 
 import sys
 
-firstPatientColumn = 44
-numPatients = 176
+firstPatientColumn = 45
+numPatients = 16
 threshold = 20
 
 sys.stdout.write(sys.stdin.readline())
